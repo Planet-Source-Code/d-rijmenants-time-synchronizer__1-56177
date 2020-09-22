@@ -1,0 +1,85 @@
+;
+; NETWORK TIME SERVER LIST - DO NOT REMOVE !!!
+;
+; Add your local Time Server here
+; (Use ; to add comments)
+;
+; EUROPE
+;
+ntps1-0.cs.tu-berlin.de ; Berlin, Germany: Technische Universitaet Berlin
+ntps1-1.cs.tu-berlin.de ; Berlin, Germany: Technische Universitaet Berlin
+ntp0.fau.de ; Erlangen, Germany: University Erlangen-Nuernberg
+ntp1.fau.de ; Erlangen, Germany: University Erlangen-Nuernberg
+ntp2.fau.de ; Erlangen, Germany: University Erlangen-Nuernberg
+ntps1-0.uni-erlangen.de ; Erlangen, Germany: University Erlangen-Nuernberg
+ntps1-1.uni-erlangen.de ; Erlangen, Germany: University Erlangen-Nuernberg
+ntps1-2.uni-erlangen.de ; Erlangen, Germany: University Erlangen-Nuernberg
+ptbtime1.ptb.de ; Germany: Physikalisch-Technische Bundesanstalt
+ptbtime2.ptb.de ; Germany: Physikalisch-Technische Bundesanstalt
+ntps1-1.rz.Uni-Osnabrueck.DE ; Osnabrueck, Germany: Universitaet Osnabrueck
+time.ien.it ; Torino, Italy: IEN Galileo Ferraris
+tempo.cstv.to.cnr.it ; Torino, Italy: CSTV of National Research Council
+ntp.lth.se ; Lund, Sweden: Lund Institute of Technology
+Time2.Stupi.SE ; Stockholm, Sweden: Stupi AB
+Time1.Stupi.SE ; SUnet and NORDUnet Sweden 
+swisstime.ethz.ch ; Zurich, Switzerland: Integrated Systems Lab, Swiss Fed. Inst. of Technology 
+ntp.maths.tcd.ie ; Dublin, Ireland: School of Mathematics, Trinity College
+ntp.tcd.ie ; Dublin, Ireland: School of Mathematics, Trinity College
+ntp.tcd.ie ; Dublin, Ireland: School of Mathematics, Trinity College
+ntp2a.mcc.ac.uk ; Manchester, England: University of Manchester
+ntp2b.mcc.ac.uk ; Manchester, England: University of Manchester
+vega.cbk.poznan.pl ; Borowiec, Poland: Astrogeodynamical Observatory, Space Research Centre
+;
+; NORTH AMERICA
+;
+timex.cs.columbia.edu ; New York City, NY: Columbia University Computer Science Department
+Rolex.PeachNet.edu ; PeachNet NOC, Kennesaw, GAtick.usno.navy.mil ; Washington, DC: U.S. Naval Observatory
+tick.usno.navy.mil ; Washington, DC: U.S. Naval Observatory
+tock.usno.navy.mil ; Washington, DC: U.S. Naval Observatory
+time-a.nist.gov ; NIST, Gaithersburg, Maryland
+time-b.nist.gov ; NIST, Gaithersburg, Maryland
+time-a.timefreq.bldrdoc.gov ; NIST, Boulder, Colorado
+time-b.timefreq.bldrdoc.gov ; NIST, Boulder, Colorado
+time-c.timefreq.bldrdoc.gov ; NIST, Boulder, Colorado
+utcnist.colorado.edu ; University of Colorado, Boulder
+time.nist.gov ; NCAR, Boulder, Colorado
+time-nw.nist.gov ; Microsoft, Redmond, Washington
+nist1.dc.certifiedtime.com ; Abovnet, North Virginia
+nist1.datum.com ; Datum, San Jose, California
+nist1.nyc.certifiedtime.com ; Abovnet, New York City
+nist1.sjc.certifiedtime.com ; Abovnet, San Jose, California
+navobs1.pa-x.dec.com ; U.S. pacific and mountain time zones 
+usno.pa-x.dec.com ; U.S. pacific and mountain time zones 
+timekeeper.isi.edu ; Marina del Rey, CA: USC Information Sciences Institute
+time.chu.nrc.ca ; Ottawa, Ontario, Canada: National Research Council of Canada
+terrapin.csc.ncsu.edu ; Raleigh, NC: North Carolina State University
+bitsy.mit.edu ; Cambridge, MA: MIT Information Systems
+bonehed.lcs.mit.edu ; Cambridge, MA: MIT
+clock.isc.org ; Palo Alto, CA: Internet Software Consortium
+clock.osf.org ; Cambridge, MA: Open Software Foundation
+clock.via.net ; Palo Alto, CA: ViaNet Communications
+lerc-dns.lerc.nasa.gov ; Cleveland, OH: Lewis Research Center (NASA)
+navobs1.usnogps.navy.mil ; Colorado Springs, CO
+navobs2.usnogps.navy.mil ; Colorado Springs, CO
+navobs1.wustl.edu ; St. Louis, MO: Washington University
+ncnoc.ncren.net ; Research Triangle Park, NC: MCNC
+ntp-cup.external.hp.com ; Cupertino, CA: HP
+ntp1.delmarva.com ; Newark, DE: Conectiv Communications
+otc1.psu.edu ; University Park, PA: Penn State University
+;
+; Far EAST AND PACIFIC RIM
+;
+clock.cuhk.edu.hk ; Hong Kong: The Chinese University of Hong Kong
+clock.nc.fukuoka-u.ac.jp ; Fukuoka, Japan: Fukuoka University
+clock.tl.fukuoka-u.ac.jp ; Fukuoka, Japan: Fukuoka University
+;
+; AUSTRALIA
+;
+ntp.cs.mu.OZ.AU ; Melbourne Australia: The University of Melbourne
+ntp.adelaide.edu.au ; Adelaide, South Australia: The University of Adelaide
+;
+; RUSSIA
+;
+ntp.psn.ru ; Russia: Pushchino (near Moscow)
+
+
